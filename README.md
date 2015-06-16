@@ -1,3 +1,2 @@
 # datafig.github.io
-Notes
 
