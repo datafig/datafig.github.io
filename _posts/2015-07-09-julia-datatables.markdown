@@ -9,10 +9,3 @@ I recently started exploring **Julia**. It seems very intuitve and easy language
 
 
 
-{% highlight julia %}
-
-using Clustering
-using DataFrames
-
-{% endhighlight %}
-
